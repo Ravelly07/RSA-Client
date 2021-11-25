@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-cliente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "encrypt-rsa": "^1.1.0",
+    "inquirer": "^8.2.0",
+    "node-rsa": "^1.1.1",
+    "prompt-sync": "^4.2.0",
+    "socket.io-client": "^4.4.0"
+  }
+}
